@@ -12,7 +12,7 @@ const port = process.env.PORT || 9000;
     visitorIp = null,
     db = null;
 
-mongoose.connect("mongodb+srv://frak1759:Popstyle79@cluster0.n8eq0sn.mongodb.net/?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://solo747:GOM6TXQ8ix229pIv@cluster0.ygupva1.mongodb.net/?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
